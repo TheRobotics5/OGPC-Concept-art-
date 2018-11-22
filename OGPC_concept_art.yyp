@@ -47,6 +47,22 @@
             }
         },
         {
+            "Key": "10045fdb-0ab0-4ced-ad66-506e5ca7cf7d",
+            "Value": {
+                "id": "a951e175-1518-491f-9479-1a2b52b81dcd",
+                "resourcePath": "sprites\\Possible_Title_Screen\\Possible_Title_Screen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "12e9baaf-823d-437b-b3d7-28008dbf7d13",
+            "Value": {
+                "id": "4bc9082d-de77-45fa-96cd-0cc7870640f0",
+                "resourcePath": "sprites\\Possible_TitleScreen\\Possible_TitleScreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "175f5275-a725-4bca-a305-cbc923520175",
             "Value": {
                 "id": "09defdf1-ca6b-47e7-a94e-1cf3601fd0a9",
